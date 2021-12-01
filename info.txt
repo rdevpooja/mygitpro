@@ -1,0 +1,17 @@
+Array
+(
+    [file_name] => huh.jpg
+    [file_type] => image/jpeg
+    [file_path] => C:/xampp/htdocs/code/uploads/
+    [full_path] => C:/xampp/htdocs/code/uploads/huh.jpg
+    [raw_name] => huh
+    [orig_name] => huh.jpg
+    [client_name] => My Post (40).jpg
+    [file_ext] => .jpg
+    [file_size] => 945.62
+    [is_image] => 1
+    [image_width] => 1080
+    [image_height] => 1080
+    [image_type] => jpeg
+    [image_size_str] => width="1080" height="1080"
+)
